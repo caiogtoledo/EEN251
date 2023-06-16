@@ -13,14 +13,13 @@
 
 ## Objetivo
 O projeto tem objetivo a criação de um robô com estilo semelhante à "Droids" dos filmes StarWars. Sua finalidade é andar em uma sala de forma autônoma desviando de barreiras.
-
-## Esquema elétrico
-
-## Diagrama de blocos
-
 ## Componentes eletrónicos
 - Raspberry Pi Pico
 - Sensores ultrassônicos
 - Motores 
 - Ponte H
 - Conversor de nível lógico
+
+## Diagrama de blocos
+![alt text](https://raw.githubusercontent.com/caiogtoledo/EEN251/main/documenta%C3%A7%C3%A3o%20planejamento/diagrama-blocos.png)
+## Esquema elétrico
