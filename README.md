@@ -21,6 +21,8 @@ O projeto tem objetivo a criação de um robô com estilo semelhante à "Droids"
 - Motores 
 - Ponte H
 - Conversor de nível lógico
+- Bateria de Lítio Íon
+- Interruptor
 
 ## Diagrama de blocos
 ![blocos](https://raw.githubusercontent.com/caiogtoledo/EEN251/main/documenta%C3%A7%C3%A3o%20planejamento/diagrama-blocos.png)
