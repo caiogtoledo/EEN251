@@ -11,6 +11,8 @@
 - Leonardo Campos
   - 20.00786-8
 
+![equipe](https://raw.githubusercontent.com/caiogtoledo/EEN251/main/equipe.jpeg)
+
 ## Objetivo
 O projeto tem objetivo a criação de um robô com estilo semelhante à "Droids" dos filmes StarWars. Sua finalidade é andar em uma sala de forma autônoma desviando de barreiras.
 ## Componentes eletrónicos
@@ -21,6 +23,8 @@ O projeto tem objetivo a criação de um robô com estilo semelhante à "Droids"
 - Conversor de nível lógico
 
 ## Diagrama de blocos
-![alt text](https://raw.githubusercontent.com/caiogtoledo/EEN251/main/documenta%C3%A7%C3%A3o%20planejamento/diagrama-blocos.png)
+![blocos](https://raw.githubusercontent.com/caiogtoledo/EEN251/main/documenta%C3%A7%C3%A3o%20planejamento/diagrama-blocos.png)
 ## Esquema elétrico
-![video](https://raw.githubusercontent.com/caiogtoledo/EEN251/main/documenta%C3%A7%C3%A3o%20planejamento/video_final.mp4)
+
+## Demonstração - Vídeo
+[![Video final](https://img.youtube.com/vi/xPsk_as8woc/0.jpg)](https://www.youtube.com/watch?v=xPsk_as8woc "Video final")
