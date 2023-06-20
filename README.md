@@ -14,7 +14,13 @@
 ![equipe](https://raw.githubusercontent.com/caiogtoledo/EEN251/main/equipe.jpeg)
 
 ## Objetivo
-O projeto tem objetivo a criação de um robô com estilo semelhante à "Droids" dos filmes StarWars. Sua finalidade é andar em uma sala de forma autônoma desviando de barreiras.
+O projeto consiste em um robô inspirado nos “droids” do filme Star Wars. O dispositivo será composto por uma carcaça estilizada, 3 rodas, sendo duas delas motorizadas e uma de apoio, sensores de proximidade e ultrassônico. Ele será capaz de se mover sem bater em obstáculos (de forma autônoma). 
+
+## Requisitos
+- Se mover de forma autônoma
+- Botão para ligar e desligar
+- Fácil acesso dos componentes elétrico
+- Estilizar de modo que pareça um "droid" dos filmes StarWars
 ## Componentes eletrônicos
 - Raspberry Pi Pico
 - Sensores ultrassônicos
