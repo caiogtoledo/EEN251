@@ -31,6 +31,7 @@ O projeto tem objetivo a criação de um robô com estilo semelhante à "Droids"
 ![custos](https://github.com/caiogtoledo/EEN251/blob/main/financeiro/custos-c2-lb.png?raw=true)
 
 ## Esquema elétrico
+![elétrica](https://github.com/caiogtoledo/EEN251/blob/main/el%C3%A9ttrica/circuito-c2-lb.jpeg?raw=true)
 
 ## Demonstração - Vídeo
 [![Video final](https://img.youtube.com/vi/xPsk_as8woc/0.jpg)](https://www.youtube.com/watch?v=xPsk_as8woc "Video final")
