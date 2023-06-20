@@ -23,3 +23,4 @@ O projeto tem objetivo a criação de um robô com estilo semelhante à "Droids"
 ## Diagrama de blocos
 ![alt text](https://raw.githubusercontent.com/caiogtoledo/EEN251/main/documenta%C3%A7%C3%A3o%20planejamento/diagrama-blocos.png)
 ## Esquema elétrico
+![video](https://raw.githubusercontent.com/caiogtoledo/EEN251/main/documenta%C3%A7%C3%A3o%20planejamento/video_final.mp4)
