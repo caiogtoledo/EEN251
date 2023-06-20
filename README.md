@@ -37,7 +37,7 @@ O projeto consiste em um robô inspirado nos “droids” do filme Star Wars. O 
 ![custos](https://github.com/caiogtoledo/EEN251/blob/main/financeiro/custos-c2-lb.png?raw=true)
 
 ## Esquema elétrico
-![elétrica](https://github.com/caiogtoledo/EEN251/blob/main/el%C3%A9ttrica/circuito-c2-lb.jpeg?raw=true)
+![elétrica](https://github.com/caiogtoledo/EEN251/blob/main/el%C3%A9trica/circuito-c2-lb.jpeg?raw=true)
 
 ## Demonstração - Vídeo
 [![Video final](https://img.youtube.com/vi/xPsk_as8woc/0.jpg)](https://www.youtube.com/watch?v=xPsk_as8woc "Video final")
