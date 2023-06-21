@@ -35,6 +35,8 @@ O projeto consiste em um robô inspirado nos “droids” do filme Star Wars. O 
 
 ## Custos (planilha em: /financeiro)
 ![custos](https://github.com/caiogtoledo/EEN251/blob/main/financeiro/custos-c2-lb.png?raw=true)
+- Valor Total = R$ 587,42
+- Poderia ser vendido cada unidade no valor de R$ 700,00 (Com uma margem de lucro de aproximadamente 20%)
 
 ## Esquema elétrico
 ![elétrica](https://github.com/caiogtoledo/EEN251/blob/main/el%C3%A9trica/circuito-c2-lb.jpeg?raw=true)
